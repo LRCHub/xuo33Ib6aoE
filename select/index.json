@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "賜物",
+  "base_artist": "Radwimps",
+  "createdAt": "2025-12-02T09:47:00.910806Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "賜物 - Tamamono",
+      "artist": "Radwimps",
+      "has_synced": true,
+      "path": "select/01_賜物_-_Tamamono_Radwimps.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "賜物 / Tamamono",
+      "artist": "RADWIMPS",
+      "has_synced": true,
+      "path": "select/02_賜物___Tamamono_RADWIMPS.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "賜物",
+      "artist": "RADWIMPS",
+      "has_synced": false,
+      "path": "select/pl_01_賜物_RADWIMPS.txt"
+    }
+  ]
+}
